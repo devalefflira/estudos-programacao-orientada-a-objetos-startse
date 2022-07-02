@@ -9,7 +9,7 @@ Anotações
 
 # Método Construtor
 
-// Estrutura:
+## Estrutura:
 
 *class nomeDaClasse {
   *constructor(parâmetro1, parâmetro2) {
@@ -19,9 +19,9 @@ Anotações
 }
 
 
-// Declara uma variável e atribui a ela a criação dentro da Classe Filme e chama dois argumentos. Ex.:
+## Declara uma variável e atribui a ela a criação dentro da Classe Filme e chama dois argumentos. Ex.:
 
 let meuFilme = *new Filme('Aprendendo JavaScript', 2022);
 
-// *Palavra reservada
-// ** Refere-se ao objeto que está dentro da classe
+### *Palavra reservada
+### ** Refere-se ao objeto que está dentro da classe
