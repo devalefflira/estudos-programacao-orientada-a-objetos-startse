@@ -25,3 +25,9 @@ let meuFilme = *new Filme('Aprendendo JavaScript', 2022);
 
 ### *Palavra reservada
 ### ** Refere-se ao objeto que está dentro da classe
+
+## Sem argumentos e sem parâmetros passados
+
+- Os argummentos passados, quando não existirem parâmetros, serão ignorados.
+
+- O uso reservado da palavra "this", além dela diferenciar os atributos dos parâmetros, no caso em questão, serve para declaração dos atributos das classes.

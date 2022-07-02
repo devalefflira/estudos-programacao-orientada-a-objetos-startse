@@ -13,3 +13,14 @@ class Filme {
 let meuFilme = new Filme('Aprendendo JavaScript', 2022);
 
 console.log(meuFilme);
+
+// Sem parâmetros
+class Produto {
+  constructor() {
+    this.tipo = 'Produto X';
+  }
+}
+// Sem argumentos
+const prod = new Produto();
+
+console.log(prod);
