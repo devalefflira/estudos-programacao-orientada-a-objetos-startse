@@ -7,6 +7,8 @@ Anotações
 
 # User Strict
 
+### Quando presente no código: Todas as variáveis precisam ser declaradas
+
 # Método Construtor
 
 ## Estrutura:
@@ -31,3 +33,7 @@ let meuFilme = *new Filme('Aprendendo JavaScript', 2022);
 - Os argummentos passados, quando não existirem parâmetros, serão ignorados.
 
 - O uso reservado da palavra "this", além dela diferenciar os atributos dos parâmetros, no caso em questão, serve para declaração dos atributos das classes.
+
+# Declaração de Atributos das Classes
+
+### Podem ser declarados antes do método (não é obrigatório, mas é uma boa prática) constructor e posteriormente utilizados dentro da classe com a palavra this.
